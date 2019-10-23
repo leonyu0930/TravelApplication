@@ -31,8 +31,8 @@ This web application has three parts:
 2. Preview before submission
 3. Real-time updating preview
 4. Dashboard Login Page
-	4.1 UserName : Admin
-	4.2 Password : 12345
+	1. UserName : Admin
+	2. Password : 12345
 5. Dashboard (To display all submitted applications)
 
 ## Versioning
