@@ -46,7 +46,7 @@
                 if (compare) {
                     this.setState({ error: '' });
                     console.log(data);
-                    window.location.replace("./Index.html");
+                    window.location.replace("./Dashboard.html");
                 } else {
                     return this.setState({ error: data[1] });
                 }
