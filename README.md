@@ -12,6 +12,7 @@ This web application has three parts:
 2. Back-end: TravelApplicationWebAPI (Developed by .net Web API framework)
 
 3. Database: DBScripts -> TraveAppDBScript.sql (To create a local Database Table)
+	1. Entity framework 
 
 
 ## Deployment
