@@ -31,12 +31,15 @@ This web application has three parts:
 	4. Name Formatting Validation (only allow a-z,A-Z,@ and ')
 	5. Contact Number Formatting Validation (only allow 0-9)
 	6. Passport Number Formatting Validation (only allow a-z, A-Z, 0-9)
-2. Preview before submission
-3. Real-time updating preview
-4. Dashboard Login Page
+2. Auto-Retrieving UEN of Company
+	1. UEN should be the pre-defined data in database.
+	2. Entering Company A in the form, Test Date UEN "T01LL0001A" will be auto-populated.
+3. Preview before submission
+4. Real-time updating preview
+5. Dashboard Login Page
 	1. UserName : Admin
 	2. Password : 12345
-5. Dashboard (To display all submitted applications)
+6. Dashboard (To display all submitted applications)
 
 ## Versioning
 
