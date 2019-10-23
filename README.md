@@ -4,7 +4,10 @@ This is a sample React Web Application about submitting a Travel Application For
 ## Getting Started
 
 This web application has three parts:
-1. Front-end: TravelApplicationWebApp (Developed by using ReactJs)
+1. Front-end: TravelApplicationWebApp (Developed by ReactJs and HTML)
+	1. Boostrap
+	2. Moment (To format date and time) 
+	3. jQuery 3.0.0
 
 2. Back-end: TravelApplicationWebAPI (Developed by .net Web API framework)
 
