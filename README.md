@@ -22,12 +22,12 @@ This web application has three parts:
 ## Running the tests
 
 1. Form Validation
-	1.1 Mandatory fields checking
-	1.2 Email Formatting Validation
-	1.3 Input length Validation (e.g. Minimum 3 characaters required)
-	1.4 Name Formatting Validation (only allow a-z,A-Z,@ and ')
-	1.5 Contact Number Formatting Validation (only allow 0-9)
-	1.6 Passport Number Formatting Validation (only allow a-z, A-Z, 0-9)
+	1. Mandatory fields checking
+	2. Email Formatting Validation
+	3. Input length Validation (e.g. Minimum 3 characaters required)
+	4. Name Formatting Validation (only allow a-z,A-Z,@ and ')
+	5. Contact Number Formatting Validation (only allow 0-9)
+	6. Passport Number Formatting Validation (only allow a-z, A-Z, 0-9)
 2. Preview before submission
 3. Real-time updating preview
 4. Dashboard Login Page
