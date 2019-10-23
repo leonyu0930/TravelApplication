@@ -1,5 +1,5 @@
 # TravelApplication
-This is a sample React Web Application about submitting a Travel Application Form
+This is a sample React Web Application about Travel Application Form submission
 
 ## Getting Started
 
