@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelApplicationWebAPI", "TravelApplicationWebAPI\TravelApplicationWebAPI.csproj", "{49F014E0-2ECA-4959-AC02-8513A4E654F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAppDBAccess", "TravelAppDBAccess\TravelAppDBAccess.csproj", "{15837313-AFE1-4192-A158-BA91E4785A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F014E0-2ECA-4959-AC02-8513A4E654F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F014E0-2ECA-4959-AC02-8513A4E654F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F014E0-2ECA-4959-AC02-8513A4E654F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F014E0-2ECA-4959-AC02-8513A4E654F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15837313-AFE1-4192-A158-BA91E4785A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15837313-AFE1-4192-A158-BA91E4785A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15837313-AFE1-4192-A158-BA91E4785A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15837313-AFE1-4192-A158-BA91E4785A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C95E8D9-6DD1-465A-B62D-24AD36AC7CCE}
+	EndGlobalSection
+EndGlobal

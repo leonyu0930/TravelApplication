@@ -1,0 +1,6 @@
+namespace TravelApplicationWebAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

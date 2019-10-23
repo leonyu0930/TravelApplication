@@ -1,0 +1,11 @@
+D:\VS2019Projects\TravelAppDBAccess\obj\Debug\TravelAppDBAccess.csproj.CoreCompileInputs.cache
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\TravelAppDBAccess.dll.config
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\TravelAppDBAccess.dll
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\TravelAppDBAccess.pdb
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\EntityFramework.dll
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\EntityFramework.xml
+D:\VS2019Projects\TravelAppDBAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS2019Projects\TravelAppDBAccess\obj\Debug\TravelAppDBAccess.csproj.CopyComplete
+D:\VS2019Projects\TravelAppDBAccess\obj\Debug\TravelAppDBAccess.dll
+D:\VS2019Projects\TravelAppDBAccess\obj\Debug\TravelAppDBAccess.pdb
