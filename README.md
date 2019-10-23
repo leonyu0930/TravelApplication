@@ -4,9 +4,11 @@ This is a sample React Web Application about submitting a Travel Application For
 ## Getting Started
 
 This web application has three parts:
-Front-end: TravelApplicationWebApp (Developed by using ReactJs)
-Back-end: TravelApplicationWebAPI (Developed by .net Web API framework)
-Database: DBScripts (To create a local Database Table)
+1. Front-end: TravelApplicationWebApp (Developed by using ReactJs)
+
+2. Back-end: TravelApplicationWebAPI (Developed by .net Web API framework)
+
+3. Database: DBScripts (To create a local Database Table)
 
 
 ## Deployment
