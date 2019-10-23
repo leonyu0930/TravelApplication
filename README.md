@@ -33,7 +33,8 @@ This web application has three parts:
 	6. Passport Number Formatting Validation (only allow a-z, A-Z, 0-9)
 2. Auto-Retrieving UEN of Company
 	1. UEN should be the pre-defined data in database.
-	2. Entering Company A in the form, Test Date UEN "T01LL0001A" will be auto-populated.
+	2. Entering Company A in the form
+		1. Test Data UEN "T01LL0001A" will be auto-populated.
 3. Preview before submission
 4. Real-time updating preview
 5. Dashboard Login Page
