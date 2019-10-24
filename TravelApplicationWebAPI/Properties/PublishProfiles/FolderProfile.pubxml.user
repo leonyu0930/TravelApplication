@@ -277,10 +277,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/22/2019 18:10:32</publishTime>
     </File>
     <File Include="bin/TravelApplicationWebAPI.dll">
-      <publishTime>10/22/2019 22:09:48</publishTime>
+      <publishTime>10/24/2019 23:30:08</publishTime>
     </File>
     <File Include="bin/TravelApplicationWebAPI.pdb">
-      <publishTime>10/22/2019 22:09:48</publishTime>
+      <publishTime>10/24/2019 23:30:08</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 13:57:34</publishTime>

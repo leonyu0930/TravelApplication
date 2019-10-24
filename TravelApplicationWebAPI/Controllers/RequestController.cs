@@ -68,7 +68,7 @@ namespace TravelApplicationWebAPI.Controllers
         {
             using (TravelAppEntities entities = new TravelAppEntities())
             {
-                return entities.Requests.ToList();
+                return entities.Requests.OrderByDescending(r => r.RequestID).ToList();//ToList();
             }
         }
 
