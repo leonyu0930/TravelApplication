@@ -15,13 +15,28 @@ This web application has three parts:
 	1. Entity framework 
 
 
-## Deployment
+## Deployment (Local Testing)
+1. Create a local database and tables
+	1. Open Microsoft SQL Server Management
+	2. Run the given SQLquery TraveAppDBScript.sql to creat the database and tables meanwhile some sample data will be created.
 
-1. TravelApplicationWebApp can be hosted in Insternet Information Service (IIS) or any environment support ReactJS and HTML
+2. Configure Insternet Information Service (IIS)
+	1. Create a new application pool and name as "TravelAppPool"
+	2. In Advanced Setting, setting "Identity" to your location DB login account.
 
-2. TravelApplicationWebAPI need be hosted in Insternet Information Service (IIS)
+3. Deploy TravelApplicationWebApp 
+	1. In Insternet Information Service (IIS)
+		1. Sites -> Default Web Site
+		2. Add a new application and name as "TravelAppWeb"
+		3. Configure the application pool as "TravelAppPool"
 
-3. Local DB setup - The database need to be installed in Microsoft SQLserver.
+4. Deploy TravelApplicationWebAPI 
+	1. In Insternet Information Service (IIS)
+		1. Sites -> Default Web Site
+		2. Add a new application and name as "TravelAppWebAPI"
+		3. Configure the application pool as "TravelAppPool"
+
+5. For IIS Deploy Configuration, plese refer to image "IIS Deploy Image" folder in my GitHub repository				
 
 ## Running the tests
 
